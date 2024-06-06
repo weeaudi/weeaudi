@@ -6,7 +6,7 @@
   </p>
 	<p align="center">
 	    <img width="49.5%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weeaudi&theme=radical&layout=compact&hide_border=true" alt="weeaudi :: Top Langs by repo" />
-		  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=HqNw&show_icons=true&theme=radical&hide_border=true" />
+		  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=weeaudi&show_icons=true&theme=radical&hide_border=true" />
 	</p>
 </div>
 <br />
